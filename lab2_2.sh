@@ -1,0 +1,4 @@
+date
+free -h
+
+
