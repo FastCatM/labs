@@ -15,7 +15,8 @@ in the answer.
 Example Input:
 
 
-```3
+```
+3
 Amazing
 Awesome
 Fantastic
