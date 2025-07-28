@@ -10,8 +10,12 @@ Output:
 You will output the words in the specific format shown in the example output below. You must
 print out everything shown below the example output, including all of the dashes, slashes, etc.
 in the answer.
+
+
 Example Input:
-3
+
+
+```3
 Amazing
 Awesome
 Fantastic
@@ -21,3 +25,4 @@ Example Output:
 \*!Awesome!*/
 \*!Fantastic!*/
 \----------/
+```
