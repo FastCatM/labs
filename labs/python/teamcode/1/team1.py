@@ -1,8 +1,6 @@
-l=[]
-countn=int(input())
-for i in range(1,countn+1):
-    l.append(input())
-print('/----------\\')
-for i in l:
-    print('\\*!',i,"!*/",sep="")
-print('/----------\\')
+l=['/----------\\']
+for i in range(0,int(input())):
+    s='\\*!'+input()+"!*/"
+    l.append(s)
+l.append('/----------\\')
+print(*l,sep='\n')
