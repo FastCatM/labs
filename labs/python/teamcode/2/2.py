@@ -1,3 +1,8 @@
+def legngth_of_last_word(s:str):
+    l = s.split()
+    return len(l[-1])
+
+
 s=input()
-l=s.split()
-print(len(l[-1]))
+
+print(legngth_of_last_word(s))
